@@ -1,0 +1,12 @@
+{
+  "name": "ws-regex",
+  "version": "1.0.3",
+  "description": "a types-names regex helper.",
+  "main": "dist/regex.util.js",
+  "types": "dist/regex.util.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wallace sun",
+  "license": "ISC"
+}

@@ -1,12 +1,16 @@
 {
   "name": "ws-regex",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "a types-names regex helper.",
   "main": "dist/regex.util.js",
   "types": "dist/regex.util.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ws-types/ws-logger"
+  },
   "author": "wallace sun",
-  "license": "ISC"
+  "license": "MIT"
 }

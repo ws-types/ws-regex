@@ -1,4 +1,6 @@
 # ws-regex 
+[![Build Status](https://travis-ci.org/ws-types/ws-regex.svg?branch=master)](https://travis-ci.org/ws-types/ws-regex)
+
 a types/names-kv-pairs regex helper for typescript
 
 ```npm

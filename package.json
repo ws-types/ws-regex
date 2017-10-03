@@ -5,12 +5,18 @@
   "main": "dist/regex.util.js",
   "types": "dist/regex.util.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "./node_modules/.bin/webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/ws-types/ws-logger"
   },
   "author": "wallace sun",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^2.3.7",
+    "typescript": "^2.5.3",
+    "webpack": "^3.6.0"
+  }
 }
